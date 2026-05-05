@@ -1,6 +1,6 @@
 ## 📸 Preview
 
-![Pizza](./public/images/pizzaa.png)
+![Pizza](./images/pizzaa.png)
 
 ---
 
