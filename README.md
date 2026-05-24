@@ -3,7 +3,7 @@
 ![Pizza](./images/pizzaa.png)
 ======= 
 
----  
+---    
 
 # Pizza Slider Vite Project
 
