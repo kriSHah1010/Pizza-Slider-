@@ -10,7 +10,7 @@
 This repo is a Vite app. Follow these steps to run it on Windows.
 
 ## What you need   
-
+   
 - Node.js installed
 - npm installed (comes with Node.js)
 
